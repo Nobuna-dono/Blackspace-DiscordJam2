@@ -1,1 +1,1 @@
-# LudumDareJam-2019
+# DiscordJam 2-2019
